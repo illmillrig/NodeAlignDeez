@@ -8,6 +8,8 @@ Graphing nodes in Maya's node editor is less than unpredictable. Often time, I w
 
 TODO: sort/graph by node inputs, and array attr indices on selected nodes
 
+** Currently only supports the first tab in a node editor
+
 **Not fully ready to release the source yet, but this could use some testing.  
 
 TO USE:
