@@ -10,7 +10,7 @@ TODO: sort/graph by node inputs, and array attr indices on selected nodes
 
 **Currently only supports the first tab in a node editor
 
-**Not fully ready to release the source yet, but this could use some testing.  
+**Not fully ready to release the source yet, but this could use some testing. So you probably shouldnt use it at all, lol.
 
 TO USE:
 
